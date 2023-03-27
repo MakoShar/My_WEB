@@ -1,0 +1,26 @@
+h1{
+    color:rgba(252, 252, 252, 0.712);
+    
+}
+h2{
+
+    color: rgb(13, 14, 13);
+}
+h3{
+    color: rgb(20, 20, 20);
+}
+h4{
+     color:rgb(16, 17, 17);
+     text-align: center;
+     text-size-adjust: 170;
+}
+h5{
+    color: rgb(10, 10, 10);
+    text-align: center;
+    text-size-adjust: 170;
+}
+.header{
+    background-image: url(download.png);
+    display: flex;
+    justify-content: center;
+}
